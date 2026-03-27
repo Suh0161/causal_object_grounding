@@ -115,10 +115,11 @@ Accuracy (mean over 50 episodes). COG holds at 1.000 across all visual shifts. N
 ## Citation
 
 ```bibtex
-@article{amir2025cog,
+@article{amir2026cog,
   title   = {Causal Signatures for Robust Object-Type Discovery Under Visual Domain Shifts},
   author  = {Amir, Mohd Afif Sabrin},
-  year    = {2026}
+  year    = {2026},
+  url     = {https://github.com/Suh0161/causal_object_grounding}
 }
 ```
 
