@@ -2,7 +2,9 @@
 
 Code for the paper **"Causal Signatures for Robust Object-Type Discovery Under Visual Domain Shifts"**.
 
-![COG explainer](COG-I.gif)
+<p align="center">
+  <img src="COG-I.gif" alt="COG explainer" width="700"/>
+</p>
 
 COG isolates each object, applies controlled impulses in four directions, and records the projected velocity response over five timesteps — a 20-dimensional kinematic signature with no RGB, texture, or shape information. Ward clustering on these signatures recovers object types under colour, texture, and shape shifts where appearance-based methods fail.
 
